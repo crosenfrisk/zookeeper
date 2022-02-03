@@ -126,6 +126,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Seamore",
+      "species": "Seal",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
